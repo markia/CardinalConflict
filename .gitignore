@@ -1,3 +1,13 @@
-/CardinalConflict/bin
-/CardinalConflict/Content/bin
-/CardinalConflict/Content/obj
+# Godot
+.godot/
+.import/
+export_presets.cfg
+/export/
+
+# .NET / Godot C#
+.mono/
+bin/
+obj/
+*.user
+.vs/
+.idea/
